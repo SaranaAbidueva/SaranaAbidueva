@@ -1,11 +1,13 @@
 ### Hi! 
 I am a 4th grade student in Saint-Petersburg State University. I am deeply keen on studying data science. Right now I'm looking for trainee/junior data science position.
 
-
+---
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/G1ifnX4d5tYFACktp9/giphy.gif" width="100"/>
 </div>
+
+---
 
 ### My stack:
 
@@ -43,7 +45,7 @@ I am a 4th grade student in Saint-Petersburg State University. I am deeply keen 
 </div>
 
 
-
+---
 
 
 
