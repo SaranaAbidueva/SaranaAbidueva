@@ -1,5 +1,5 @@
-### Hi! I am a 4th grade student in Saint-Petersburg State University.
-I am deeply keen on studying data science. Right now I'm looking for trainee/junior data science position.
+### Hi! 
+I am a 4th grade student in Saint-Petersburg State University. I am deeply keen on studying data science. Right now I'm looking for trainee/junior data science position.
 
 
 
