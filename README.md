@@ -39,8 +39,7 @@ I am a 4th grade student in Saint-Petersburg State University. I am deeply keen 
   <img src="https://datafolkz.co.in/wp-content/uploads/2021/02/python_nltk.png" width="50"/>
 </div>
 <div id="header" align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png
-" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="50"/>
 </div>
 
 
