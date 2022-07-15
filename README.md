@@ -9,9 +9,7 @@ I am a 4th grade student in Saint-Petersburg State University. I am deeply keen 
 
 ### My stack:
 
-<div id="header" align="left">
-  <img src="https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300" width="100"/>
-</div>
+
 <div id="header" align="left">
   <img src="https://store-images.s-microsoft.com/image/apps.37972.13510798882847238.aaaa73f1-0fc5-480b-8619-538d563b087a.494567bd-9177-4350-b15c-f9b823cb508c?mode=scale&q=90&h=300&w=300" width="100"/>
 </div>
@@ -24,6 +22,28 @@ I am a 4th grade student in Saint-Petersburg State University. I am deeply keen 
 <div id="header" align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="50"/>
 </div>
+<div id="header" align="left">
+  <img src="https://miro.medium.com/max/765/1*cyXCE-JcBelTyrK-58w6_Q.png" width="50"/>
+</div>
+<div id="header" align="left">
+  <img src="https://keras.io/img/logo.png" width="50"/>
+</div>
+<div id="header" align="left">
+  <img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" width="50"/>
+</div>
+<div id="header" align="left">
+  <img src="https://user-images.githubusercontent.com/315810/92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png" width="50"/>
+</div>
+<div id="header" align="left">
+  <img src="https://datafolkz.co.in/wp-content/uploads/2021/02/python_nltk.png" width="50"/>
+</div>
+<div id="header" align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png
+" width="50"/>
+</div>
+
+
+
 
 
 
