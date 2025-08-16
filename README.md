@@ -1,13 +1,17 @@
 ### About me
-:mortar_board: Graduated Saint-Petersburg State University, specialization applied math and computer science. 
 
-:bar_chart: 1.5 year experience as a product analyst at Tinkoff.
+:briefcase: **Machine Learning Engineer** at Asian Pacific Bank — developing machine learning solutions for credit risk modeling.
 
-:computer: Created first machine translation model for the Buryat language.
+:robot: Built the first **machine translation** model for the Buryat language. [Paper](https://aclanthology.org/2025.fieldmatters-1.8/)
 
-:green_book: Currently studying machine learning.
+:bar_chart: 1.5 years as a **Product Analyst** at Tinkoff (2022–2024), where I worked on data-driven product decisions, A/B testing, and user behaviour analysis.  
+
+:mortar_board: Bachelor’s degree in Applied Mathematics and Computer Science from Saint Petersburg State University.
+
+:green_book: Interested in NLP, RecSys, ML reliability.
 
 ---
+
 
 
 
